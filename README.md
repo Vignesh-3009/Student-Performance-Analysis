@@ -1,4 +1,4 @@
-# Student Performance Intelligence
+# Student Performance Analysis
 
 ### Exploratory Data Analysis Using Python
 
