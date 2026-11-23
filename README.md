@@ -145,7 +145,7 @@ This analysis allows comparison of academic outcomes across failure groups using
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Vignesh-3009/Student-Performance-Intelligence.git
+git clone https://github.com/Vignesh-3009/Student-Performance-Analysis.git
 ```
 
 ### 2. Navigate to the project directory
